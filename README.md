@@ -55,8 +55,49 @@ fastboot reboot recovery
 <details>
 <summary><b>June 30, 2025</b></summary>
 
-- Initial Build
+• Initial Build
 
+• Removed System-wide S9 Spoof
+
+• Community build
+
+• GMS Pico Build
+
+• MagicTime kernel inbuilt 
+
+• Kernel Supports Ksu-Next Susfs
+
+• Use KSU-Next app only 
+
+• ROM Encrypted By Default
+
+• Sony Dolby Audio
+
+• Modded thermals from alioth
+
+• Updated fw from HyperOS 2.0.8.0
+
+• Pelt + Uclamp added for best gaming and battery life
+
+• Updated Touch profiles
+
+• Recovery & Bootanimation rotate to 90 degrees
+
+• Tuned Boot time
+
+• Tuned CPU sets for stability
+
+• Updated wifi display
+
+• Tuned read ahead for stability 
+
+• Enabled HintManager for smoother ui
+
+• Dropped light service 
+
+• Dropped erofs building
+
+• Fixed connection BLE
 
 </details>
 
